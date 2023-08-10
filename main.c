@@ -4,7 +4,7 @@
 #include <string.h>
 #include <time.h>
 #include <unistd.h>
-#include "foal.c"
+#include "board.c"
 
 int main(void)
 {
